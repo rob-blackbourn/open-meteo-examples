@@ -1,0 +1,6 @@
+numpy==1.26.4
+pandas==2.0.3
+httpx==0.26.0
+jetblack-open-meteo==1.0.0a0
+jupyter==1.1.1
+plotly==5.24.1
